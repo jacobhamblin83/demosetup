@@ -1,0 +1,8 @@
+module.exports = {
+    secret: 'your_secret',
+    auth0: {
+    domain: 'your_0Auth_domain',
+    clientId: 'your_0Auth_id',
+    clientSecret: 'secret_from_your_0Auth_account',
+  }
+}
